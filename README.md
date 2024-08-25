@@ -10,3 +10,7 @@ pandas (for data manipulation)
 requests (for making HTTP requests)
 beautifulsoup4 (for web scraping)
 plotly (for creating interactive plots)
+
+3. Programming Language
+Python
+
